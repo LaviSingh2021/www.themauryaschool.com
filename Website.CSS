@@ -1,0 +1,107 @@
+#welcome{
+background-color:#cdd1f0;
+ height: 100%;
+width: 100%;
+position: absolute;
+    display: table;
+   top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    color: black;
+    opacity:1;
+   
+}
+
+#welcomeline{
+    color: black;
+    font-family:monospace;
+    
+}
+
+#intro{
+color:black;
+    font-family: monospace;
+}
+
+body{
+    background-color: white;
+}
+
+#mynavbar{
+    background-color: aqua;
+   
+}
+
+#imgmaurya{
+    height:700px;
+    width:1000;
+}
+
+img{
+    transition:transform .3S;
+}
+
+img:hover{
+    transform: scale(.9);
+}
+
+.carousel-content h1{
+ font-size:52px;
+color:black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#myCarousel img{
+height:200px;
+margin-top: 10px;
+}
+
+#namer{
+font-size:8;
+font-family: fantasy;
+color: crimson;
+}
+
+#newtondisc{
+height:500px;
+width:500px;
+}
+
+#vns{
+color:black;
+font-family: fantasy;
+font-size: 20px;
+    
+}
+
+#vissionandmission{
+    background-color: floralwhite;
+}
+
+#aluminiheader{
+    COLOR:black;
+    font-family:monospace;
+    font-size: 60px;
+    
+}
+
+#img2121{
+height:750;
+width:300;  
+}
+
+#alumini{
+    background-color:azure;
+}
+
+
+#achievment {
+    background-color: #e6e6ff;
+}
+
+#sports{
+    background-color: #cce6ff;
+}
